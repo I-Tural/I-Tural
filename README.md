@@ -22,7 +22,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<hr/>
+
+---
+
 :man_technologist: About Me :
 I am a FrontEnd Developer from Baku, Azerbaijan
 
