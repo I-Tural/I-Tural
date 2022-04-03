@@ -36,3 +36,6 @@ I am a FrontEnd Developer from Baku, Azerbaijan
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/i-tural/)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
