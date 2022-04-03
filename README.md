@@ -59,4 +59,4 @@ I am a FrontEnd Developer from Baku, Azerbaijan
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=I-Tural&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ITural&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
