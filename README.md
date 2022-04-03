@@ -23,14 +23,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <hr/>
-<div>
 :man_technologist: About Me :
 I am a FrontEnd Developer from Baku, Azerbaijan
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+<br/>
+  - :telescope: I work as a frontend developer. I mostly use React/Redux/Saga libraries.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I also enjoy experimenting with new technologies.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-</div>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/i-tural/)
+
