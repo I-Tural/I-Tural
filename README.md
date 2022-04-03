@@ -23,5 +23,5 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <hr/>
-:man_technologist: About Me:
+### :man_technologist: About Me :
 I am a FrontEnd Developer from Baku, Azerbaijan <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdbaN-bJ4FH2sqnT2Wx8gkhicrX7BIr5RAK0fsYvBULyBUJY4uAKGPA25G2YZNUmppVLA&usqp=CAU" width="30">
