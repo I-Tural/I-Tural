@@ -24,6 +24,6 @@
 </div>
 <hr/>
 <div>
-### :man_technologist: About Me :
-I am a FrontEnd Developer from Baku, Azerbaijan <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdbaN-bJ4FH2sqnT2Wx8gkhicrX7BIr5RAK0fsYvBULyBUJY4uAKGPA25G2YZNUmppVLA&usqp=CAU" width="30">
+:man_technologist: About Me :
+I am a FrontEnd Developer from Baku, Azerbaijan
 </div>
