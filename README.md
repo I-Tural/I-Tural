@@ -8,7 +8,7 @@
   <a href="https://www.codewars.com/users/ITural">
     <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars Badge"/>
   </a>
-  <a href="https://www.facebook.com/tural.islamli.7">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
+  <a href="https://t.me/Turalislamli">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
