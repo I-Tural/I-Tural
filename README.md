@@ -25,7 +25,7 @@
 <hr/>
 :man_technologist: About Me :
 I am a FrontEnd Developer from Baku, Azerbaijan
-<br/>
+
 - :telescope: I work as a frontend developer. I mostly use React/Redux/Saga libraries.
 
 - :seedling: I also enjoy experimenting with new technologies.
